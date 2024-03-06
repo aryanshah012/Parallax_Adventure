@@ -68,7 +68,7 @@ section{
 .text{
     font-size: 1.5rem;
     padding: 0 10rem ;
-    margin: 5m 0;
+    margin: 5rem 0;
     position: absolute;
     top: 15%;
     display: flex;
@@ -76,7 +76,7 @@ section{
     justify-content: flex-start;
     top: 75%;
     background-color: rgba(45, 45, 45);
-    height: 220px; 
+    height: auto; 
 }
 
 .desc{
